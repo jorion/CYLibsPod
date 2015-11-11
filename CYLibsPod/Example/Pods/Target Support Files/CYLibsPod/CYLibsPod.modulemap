@@ -1,6 +1,0 @@
-framework module CYLibsPod {
-  umbrella header "CYLibsPod-umbrella.h"
-
-  export *
-  module * { export * }
-}
