@@ -9,15 +9,9 @@
 Pod::Spec.new do |s|
   s.name             = "CYLibsPod"
   s.version          = "1.0.0"
-  s.summary          = "A short description of CYLibsPod."
+  s.summary          = "测试pod生成framework的YohunlUtilsPod."
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "测试用的,我们用来测试使用pod lib create 生成的framework工程"
 
   s.homepage         = "https://github.com/jorion/CYLibsPod"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
